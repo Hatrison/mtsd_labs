@@ -33,3 +33,7 @@ The format of the file has to be the following:
 ```
 
 The end of the first line has to contain `\n` symbol to work properly.
+
+## Revert commit
+
+The revert commit is `e8fa9a3`.
