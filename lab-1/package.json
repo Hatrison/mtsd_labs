@@ -8,5 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Vadim Ulanovskiy (vadimulanovskiy@gmail.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
