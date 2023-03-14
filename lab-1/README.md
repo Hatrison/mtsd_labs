@@ -33,5 +33,3 @@ The format of the file has to be the following:
 ```
 
 The end of the first line has to contain `\n` symbol to work properly.
-
-Text for revert commit
